@@ -2,4 +2,4 @@ import random
 
 class Zombie:
     degat = random.choice(range(1, 3))
-    loot = random.choice(range(0.5, 1))
+    loot = random.uniform(0.5, 1)
