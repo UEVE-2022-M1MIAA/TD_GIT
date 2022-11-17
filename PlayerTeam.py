@@ -1,9 +1,6 @@
 from Team import Team
 
-
 class PlayerTeam(Team):
-
-
     def __init__(self,members):
         super.__init__(members)
         self.__nb_warriors
@@ -30,30 +27,3 @@ class PlayerTeam(Team):
 
     def getFlee(self):
         return self.__flee
-
-    
-
-
-
-
-
-
-
-La classe EnemyTeam hérite de la classe Team et a les attributs privés suivants :
-
-__nb_warriors : int
-__nb_hunters : int
-__nb_wizatds : int
-__damage : int
-__loot : int
-__flee : int
-
-Elle implémente aussi des méthodes permettant d'accéder aux :
-
-les dégats de l'équipe
-la valeur de chance de l'équipe
-la valeur de fuite de l'équipe
-le nombre de warriors
-le nombre de chasseurs
-le nombre de magiciens
-et la méthode __repr__ si nécessaire
