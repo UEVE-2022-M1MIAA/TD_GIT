@@ -6,7 +6,7 @@ Celles-ci seront réalisée au travers d'une classe `Game` et votre objectif fin
 
 # Exercice 1
 
-Par binôme / trinôme, un étudiant devra créez un `fork` de ce projet. Ce sera votre référentiel principal pour le TD.
+Par binôme / trinôme, **un seul** étudiant devra créez un `fork` de ce projet. Ce sera votre référentiel principal pour le TD.
 Contribués séparément à ce projet en ajoutant les classes des unités de base du jeu (cf [#1](/../../issues/1), [#2](/../../issues/2), [#3](/../../issues/3), [#4](/../../issues/4), [#5](/../../issues/5), [#6](/../../issues/6)).
 Pour cela vous allez devoir:
   - ouvrir une issue dans votre projet
